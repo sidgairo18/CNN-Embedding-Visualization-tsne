@@ -1,3 +1,4 @@
+%Also refer to the following link/tutorial apart from Karpathy's code - https://in.mathworks.com/help/stats/visualize-high-dimensional-data-using-t-sne.html
 fileID = fopen('fc7_features_vgg16.txt', 'r');
 formatSpec = "";
 f = "%f";
