@@ -1,0 +1,1 @@
+Here each row should be a 4096 dimensional fc7 feature vector.
